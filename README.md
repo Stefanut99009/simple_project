@@ -1,5 +1,5 @@
 Am instalat pur si laravel cu:<br>
-laravel new simple_project<br>
+create-project –prefer-dist laravel/laravel simple_project<br>
 Dupa ce sau instalat pachetele am fost pus sa seltez mai multe lucruti si am selectat urmatoarele:<br>
 1.PHPUnit<br>
 2.Breeze<br>
