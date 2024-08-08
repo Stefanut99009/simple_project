@@ -1,6 +1,8 @@
 Am instalat pur si laravel cu:<br>
 composer create-project laravel/laravel simple_project<br>
 Dupa ce sau instalat pachetele am fost pus sa seltez mai multe lucruti si am selectat urmatoarele:<br>
+composer require laravel/breeze --dev<br>
+php artisan breeze:install<br>
 1.PHPUnit<br>
 2.Breeze<br>
 3.React<br>
