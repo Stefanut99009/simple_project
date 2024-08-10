@@ -1,4 +1,4 @@
-Am instalat pur si laravel cu:<br>
+Am instalat pur si simplu laravel cu:<br>
 composer create-project laravel/laravel simple_project<br>
 Dupa ce sau instalat pachetele am fost pus sa seltez mai multe lucruti si am selectat urmatoarele:<br>
 composer require laravel/breeze --dev<br>
